@@ -1,0 +1,1 @@
+exports.DEFAULT_USER_IMG = "https://www.clipartmax.com/png/middle/335-3351736_go-back-gallery-for-contact-person-icon-person-icon.png";
